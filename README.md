@@ -20,7 +20,7 @@ Process online donations via the Shurjo payment gateway.
 To install this plugin please follow the following:
 
 1. Install it using wordpress plugin area.
-2. Configure the Thawani Credentials.
+
 
 # == Changelog ==
 = 1.0 =
